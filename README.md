@@ -1,9 +1,9 @@
 # Hammer Maps by KnavE
 
-* [ctf_bypass](#ctf_bypass)
+* [ctf_bypassed](#ctf_bypassed)
 
 
-## `ctf_bypass`
+## `ctf_bypassed`
 
 #### Title: Bypassed
 #### Tagline: Opposing bases with a myriad of alternate paths and passages
